@@ -47,6 +47,8 @@ postman.setEnvironmentVariable("x-wsse", wsse.getHeader()['X-WSSE'])
 
 ![postman_prerequest_script](../images/postman_prerequest_script.png?raw=true)
 
+**Question** Which username and secret are requested here? As far as I know those should be the Web Service Credentials from the User Management section in Adobe Analytics. Could you please confirm?
+
 5. On the second to last line of the prerequest script replace <INSERT_USERNAME_HERE> with your username. (Valid usernames are in the format of login:company. Example: `johnsmith:Geometrixx`)
 
 6. On the same line of code replace <INSERT_SECRET_HERE> with your secret
