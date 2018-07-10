@@ -7,10 +7,6 @@ For each article in this series, you can download the solution files provided in
 -   [PHP](c_PHP.md#) 
 -   [Java](c_Java.md#) 
 -   C\# \(Coming Soon\)
-
--   **[PHP](c_PHP.md)**  
- 
--   **[Java](c_Java.md)**  
  
 
 **Parent topic:** [Authentication and Setup Tutorial](c_Authentication_and_Setup.md)
